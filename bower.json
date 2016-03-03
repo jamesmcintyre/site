@@ -1,0 +1,21 @@
+{
+  "name": "personal-site2",
+  "homepage": "https://github.com/jamesmcintyre/site",
+  "authors": [
+    "James McIntyre <james.checks.his.email@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-scroll-animate": "^0.9.8"
+  }
+}

@@ -1,6 +1,6 @@
 'use strict';
 
-var app = angular.module('howCanIHelp', ['ui.router']);
+var app = angular.module('howCanIHelp', ['ui.router', 'angular-scroll-animate']);
 
 
 app.config(function($stateProvider, $urlRouterProvider) {
